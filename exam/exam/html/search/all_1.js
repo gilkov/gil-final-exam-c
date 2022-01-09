@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['main_0',['main',['../_main_8c.html#a840291bc02cba5474a4cb46a9b9566fe',1,'Main.c']]],
-  ['main_2ec_1',['Main.c',['../_main_8c.html',1,'']]]
+  ['isprime_0',['IsPrime',['../_prime_8c.html#ae2cfb0f41dbb06563a15ebcad19fb43c',1,'Prime.c']]]
 ];

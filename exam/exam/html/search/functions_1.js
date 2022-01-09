@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['sh_0',['sh',['../_header_8h.html#aa09de616e002b99da24d372e435f7862',1,'Header.h']]]
+  ['isprime_0',['IsPrime',['../_prime_8c.html#ae2cfb0f41dbb06563a15ebcad19fb43c',1,'Prime.c']]]
 ];
