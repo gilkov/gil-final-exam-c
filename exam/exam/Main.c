@@ -35,7 +35,7 @@ void TestPrime(void)
     printf("%s", "waiting to your input...\n");
 
     prime_t input;
-    scanf_s("%llu", &input, sizeof(input));
+    scanf_s("%llu", &input);
     for (prime_t i = 0; i < input-1; i++)
     {
         GetNextPrime();
